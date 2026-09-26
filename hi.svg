@@ -1,16 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="300"
-     height="60"
-     viewBox="0 0 300 60">
-<switch>
-<foreignObject x="0" y="0" width="300" height="60">
-                <div id="userbox" style="text-align: center; width: 300px; height: 60px; background: white; border: 2px solid rgb(227, 141, 0); border-radius: 0px;">
-                  <div id="box" style="border-radius: 0px; font-family: Verdana; border-right: 2px solid rgb(227, 141, 0); height: 100%; width: 60px; font-size: 1.2rem; font-weight: bold; background: linear-gradient(rgb(227, 141, 0) 20%, rgb(237, 206, 0) 20.1%, rgb(237, 206, 0) 40%, white 40%, white 60%, rgb(98, 176, 221) 60%, rgb(98, 176, 221) 80%, rgb(26, 53, 85) 80%); color: rgb(227, 141, 0); display: table-cell; vertical-align: middle;"></div>
-                  <div id="text" style="border-radius: 0px; height: 60px; font-family: Verdana; font-size: 1rem; font-weight: normal; width: 238px; background: white; color: rgb(227, 141, 0); display: table-cell; vertical-align: middle;">This user is aroace</div>
-                </div>
-</foreignObject>
-
-<text x="0" y="30">Your SVG viewer cannot display html.</text>
-</switch>
-
+<svg viewBox="0 0 304 64" xmlns="http://www.w3.org/2000/svg">
+     <foreignObject x="0" y="0" width="304" height="64">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <div id="userbox" style="text-align: center; width: 300px; height: 60px; background: white; border: 2px solid rgb(227, 141, 0); border-radius: 0px;">
+	<div id="box" style="border-radius: 0px; font-family: Verdana; border-right: 2px solid rgb(227, 141, 0); height: 100%; width: 60px; font-size: 1.2rem; font-weight: bold; background: linear-gradient(rgb(227, 141, 0) 20%, rgb(237, 206, 0) 20.1%, rgb(237, 206, 0) 40%, white 40%, white 60%, rgb(98, 176, 221) 60%, rgb(98, 176, 221) 80%, rgb(26, 53, 85) 80%); color: rgb(227, 141, 0); display: table-cell; vertical-align: middle;"></div>
+	<div id="text" style="border-radius: 0px; height: 60px; font-family: Verdana; font-size: 1rem; font-weight: normal; width: 238px; background: white; color: rgb(227, 141, 0); display: table-cell; vertical-align: middle;">This user is aroace</div>
+</div>
+    </div>
+  </foreignObject>
 </svg>
